@@ -1,0 +1,13 @@
+numba
+scipy
+functorch
+torch
+tslearn
+scikit-learn
+googledrivedownloader
+matplotlib
+wandb
+pytorch-lightning
+pandas
+numpy
+torchvision
