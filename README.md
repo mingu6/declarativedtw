@@ -1,6 +1,6 @@
 # Declarative DTW (DecDTW)
 
-This repo contains a reference implementation of our proposed declarative DTW layer named DecDTW (ICLR 2023). The repo contains a full implementation of our DecDTW layer as well as training/eval pipelines for the two experiments presented in the paper.
+This repo contains a reference implementation of our proposed declarative DTW layer named DecDTW (ICLR 2023). The repo contains a full implementation of our DecDTW layer as well as training/eval pipelines for the two experiments presented in the [paper](https://openreview.net/forum?id=UClBPxIZqnY).
 
 ## Setup
 
