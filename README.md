@@ -48,3 +48,16 @@ See `experiments/audio_score/README.md` for detailed setup information of the un
 #### Visual place recognition experiments
 
 See `experiments/vpr/README.md` for detailed setup information of the underlying datasets and terminal commands to run training/eval. 
+
+#### Citation
+
+```
+@inproceedings{
+xu2023deep,
+title={Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths},
+author={Ming Xu and Sourav Garg and Michael Milford and Stephen Gould},
+booktitle={International Conference on Learning Representations (ICLR)},
+year={2023},
+url={https://openreview.net/forum?id=UClBPxIZqnY}
+}
+```
