@@ -51,6 +51,8 @@ See `experiments/vpr/README.md` for detailed setup information of the underlying
 
 #### Citation
 
+Please consider citing our paper if you find our work helpful for your research
+
 ```
 @inproceedings{
 xu2023deep,
